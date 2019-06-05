@@ -2,7 +2,7 @@
 from pushbullet import Pushbullet
 import sys
 
-pb = Pushbullet("api_key")
+pb = Pushbullet("api_key") # pushbullets api key
 
 if len(sys.argv) > 1:
     notes = " ".join(sys.argv[1:])
