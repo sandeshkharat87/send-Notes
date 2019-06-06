@@ -1,4 +1,4 @@
-# CLI_PC_PB
+# send-Notes
 msg pc to smartphone
 
 use >
